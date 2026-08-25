@@ -20,7 +20,7 @@ Harmony TV Safe Apps is a clean, 100% safe open-source guide to sideload APKs on
 3. **Enjoy for you TV!**
 
 
-**devices**
+4. **Devices**
 <p align="center">
   <img src="https://img.shields.io/badge/Huawei%20Vision%20S65-Supported-brightgreen?style=for-the-badge&logo=huawei&logoColor=white&labelColor=black" alt="Huawei Vision S65 Supported Badge">
 </p>
