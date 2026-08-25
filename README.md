@@ -9,3 +9,10 @@ Harmony TV Safe Apps is a clean, 100% safe open-source guide to sideload APKs on
   <img src="https://img.shields.io/badge/Version-2.0.0-informational?style=for-the-badge&logo=huawei&logoColor=white&labelColor=lightgrey" alt="HarmonyOS Version Badge">
 </p>
 
+### 📥 Installation & Setup Guide
+
+1. **Download Arora Store:**
+   * Download and install the **Arora Store** client on your device.
+
+2. **Verify App Compatibility:**
+   * Make sure that restricted apps (such as **Google Play Services**) are **not running** or installed on your system before proceeding.
