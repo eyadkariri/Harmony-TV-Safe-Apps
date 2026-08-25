@@ -30,6 +30,6 @@ Harmony TV Safe Apps is a clean, 100% safe open-source guide to sideload APKs on
 Always get the latest official version from:
 - [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/releases)
 - [F-Droid](https://f-droid.org/packages/com.aurora.store/)
-- [Aurora Store Download](https://auroraoss.com)
+- [Aurora Store.com](https://auroraoss.com)
   
  The copyright of the project in GitHub was made to help free of charge Developer : Eyad Kariri
