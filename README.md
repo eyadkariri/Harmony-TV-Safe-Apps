@@ -25,4 +25,10 @@ Harmony TV Safe Apps is a clean, 100% safe open-source guide to sideload APKs on
   <img src="https://img.shields.io/badge/Huawei%20Vision%20S65-Supported-brightgreen?style=for-the-badge&logo=huawei&logoColor=white&labelColor=black" alt="Huawei Vision S65 Supported Badge">
 </p>
 
+## 📲 Download Aurora Store
+
+Always get the latest official version from:
+- [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/releases)
+- [F-Droid](https://f-droid.org/packages/com.aurora.store/)
+
   The copyright of the project in GitHub was made to help free of charge Developer : Eyad Kariri
